@@ -1,4 +1,4 @@
-<p align="center"><img src="../img/texto_sentu_studio_dark.png" alt="SENTU Studio Logo" /></p>
+<p align="center"><img src="../src/img/texto_sentu_studio_dark.png" alt="SENTU Studio Logo" /></p>
 
 <h1 align="center">SENTU studio</h1>
 <p align="center"><b>ETL with Pandas Series.</b></p>

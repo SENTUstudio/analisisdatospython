@@ -1,4 +1,4 @@
-<p align="center"><img src="../img/AirflowLogo.png" alt="CloudFormation"  height="200" /></p>
+<p align="center"><img src="../src/img/AirflowLogo.png" alt="CloudFormation"  height="200" /></p>
 
 <h1 align="center"> Apache Airflow </h1>
 <p align="center">

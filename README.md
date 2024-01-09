@@ -1,4 +1,4 @@
-<p align="center"><img src="img/texto_sentu_studio_dark.png" alt="SENTUstudio Logo" /></p>
+<p align="center"><img src="src/img/texto_sentu_studio_dark.png" alt="SENTUstudio Logo" /></p>
 
 <h1 align="center"> Análisis de datos e Ingeniería de Datos con Python | ETL | ML | SQL </h1>
 
