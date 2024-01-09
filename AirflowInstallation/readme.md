@@ -1,6 +1,6 @@
-<p align="center"><img src="img/AirflowLogo.png" alt="CloudFormation"  height="200" /></p>
+<p align="center"><img src="../img/AirflowLogo.png" alt="CloudFormation"  height="200" /></p>
 
-<h4 align="center"> Apache Airflow </h1>
+<h1 align="center"> Apache Airflow </h1>
 <p align="center">
   <a href="https://www.sentu.studio/videos/404/watch?v=t4h4vsULwFE&t">El Corsario</a>
 </p>
@@ -17,6 +17,6 @@ I have covered the Airflow and Airflow Dag in this video here if you like to che
 
 ## Commands
 
-'''bash
+```bash
 docker build -t airflow-sqlserver -f Dockerfile . --no-cache
-'''
+```

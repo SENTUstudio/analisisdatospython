@@ -7,7 +7,7 @@ Este es el repositorio de códigos de prueba Python para el blog de SENTU studio
 
 ## Primer Paso
 
-Clona o descarga el repositorio. Las instrucciones detalladas serán creadas en blog.
+Clona o descarga el repositorio. Las instrucciones detalladas serán creadas en el blog de SENTU studio.
 
 ## Conjunto de tecnología utilizada
 
