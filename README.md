@@ -3,7 +3,7 @@
 <h1 align="center"> Análisis de datos e Ingeniería de Datos con Python | ETL | ML | SQL </h1>
 
 ## Análisis de datos e Ingeniería de Datos con Python | ETL | ML | SQL
-Este es el repositorio de códigos de prueba Python para el blog de SENTU studio pensado como portafolio de proyectos. Este repositorio alberga el código de múltiples temas que serán cubiertos en el blog, desde análisis de datos, aprendizaje automático y desarrollo web utilizando Python y ETL.
+Este es el repositorio de códigos del cúmulo de mi travesía en Python a nivel profesional adaptado para el blog de SENTU studio pensado como portafolio de proyectos. Este repositorio alberga el código de múltiples temas que serán cubiertos en el blog, desde análisis de datos, aprendizaje automático y desarrollo web utilizando Python y ETL.
 
 ## Primer Paso
 
